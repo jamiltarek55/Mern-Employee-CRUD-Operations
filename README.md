@@ -1,23 +1,24 @@
 
 ## Available Scripts
-For Backend:
+## For Backend:
 first Extract the zip file then 
 go to project derectoryi,e,
 Mern-Employee-CRUD-Operations
-now write as follow on bashj or terminal:
+now write as follow on bash or terminal:
 ### 'cd server'
 then
 ### 'node server.js'
 the server will started with mongoDb databases connected
 
 
-for frontend 
+## for frontend 
 go to project derectoryi,e,
 Mern-Employee-CRUD-Operations
 
 write on terminal or bash as follow for installing dependensis :
 
 ### `npm i`
+Or
 ### `yarn`
 then write on terminal or bash as 
 ### `npm start`
@@ -26,7 +27,7 @@ or
 
 
 
-For test:
+## For test:
 
 ### `npm test`
 or
